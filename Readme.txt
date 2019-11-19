@@ -1,0 +1,1 @@
+This repository has been created for the purposes of tracking the instructions and methodologies for the software utilized as part of our efforts to facilitate the data collection, construction of digital 3D models, and exchange from our team to team 2 of the MACE project at SOFWERX.
